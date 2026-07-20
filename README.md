@@ -14,5 +14,3 @@ It allows operations such as deposits, withdrawals, loans, and loan repayments, 
 - **[ahorro.py](ca://s?q=Clase_Ahorro_en_Python)** → Clase `Ahorro` que hereda de `Cuenta`.  
 - **[corriente.py](ca://s?q=Clase_Corriente_en_Python)** → Clase `Corriente` que hereda de `Cuenta` y añade préstamos y límite de descubierto.  
 - **[banco.py](ca://s?q=Clase_Banco_en_Python)** → Clase `Banco` que administra las cuentas y el menú principal.  
-m/tuusuario/mini-banco-python.git
-   cd mini-banco-python
